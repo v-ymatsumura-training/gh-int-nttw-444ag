@@ -6,4 +6,5 @@ window.requestAnimationFrame(function () {
 
 // Lab 7: Grid Size
 new GameManager(4)
+// Lab 7: Grid Size
 })
